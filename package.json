@@ -1,12 +1,11 @@
 {
-  "name": "aula-npm-inicial",
+  "name": "api_rest_Heroko",
   "version": "1.0.0",
-  "description": "Iniciando com NodeJS e NPM",
+  "description": "",
   "type": "module",
-  "main": "main.js",
+  "main": "main_API_no_Heroku.js",
   "scripts": {
-    "start": "node API_no_Heroku.js",
-    "dev": "node main.js",
+    "start": "node main_API_no_Heroku.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
